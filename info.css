@@ -1,0 +1,15 @@
+body {
+    background-image: url(Info.jpg);
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.point img {
+    margin-left: 840px;
+    margin-top: 640px;
+}
+
+.button {
+    float: right;
+    margin-right: 400px;
+}
